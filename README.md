@@ -1,4 +1,4 @@
-# vue-test
+# vue-spa
 
 > A Vue.js project
 
